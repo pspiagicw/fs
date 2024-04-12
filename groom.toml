@@ -1,0 +1,9 @@
+name = "fs"
+
+[variables]
+version = "0.0.1"
+
+[task.format]
+command = "go fmt ./..."
+
+
